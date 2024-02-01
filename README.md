@@ -1,16 +1,23 @@
-### Hi there 👋
+# Loganathan Somasundaram
 
-<!--
-**Loga3290/Loga3290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to My GitHub 👋
 
-Here are some ideas to get you started:
+### Full Stack Engineer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Leveraging technology to build amazing things. I love working with Java, and Angular, and I'm passionate about cloud computing.
+
+#### Quick Facts
+- 📍 **Location:** Coimbatore, TamilNadu
+- 💼 **Experience:** Full Stack Development
+- 🚀 **Skills:** Java, Angular, Docker, Cucumber
+
+#### Connect with Me
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/logasoma/)](https://www.linkedin.com/in/logasoma/)
+
+
+- Mail Me: [logs.krish@gmail.com](mailto:logs.krish@gmail.com)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=loga3290&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
+
+
+_Check out my repositories below!_ 👇
